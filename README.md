@@ -12,7 +12,7 @@ README.TXT
 
                                 PhreeSCALE-v1.2
 
-			    
+
 PhreeSCALE - Version 1.2  March 31, 2016
 
 The following files are available:
