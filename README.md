@@ -16,8 +16,7 @@ README.TXT
 PhreeSCALE - Version 1.2  March 31, 2016
 
 The following files are available:
--PhreeSCALE-V1.2.exe
--gmp.dll : it's necessary to copy this file to the same folder as the executable
+-PhreeSCALE-V1.2.exe : The executable of PhreeSCALE
 -Pitzer.dat : database for the Na2SO4-MgSO4-H2O ternary system
 -PhreeSCALE-V1.2.txt : which describe rapidly the new keywords and the modifications. For more detail see attached article
 
